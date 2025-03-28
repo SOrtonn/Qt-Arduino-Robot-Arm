@@ -6,8 +6,8 @@ Qt GUI to control Arduino & Robot Arm via serial communication
   
 Created for my MEng Mechatronics and robotics project  
   
-Project uses tinkerkit Braccio robot arm, Arduino UNO, and DFRobot TCS3200 robot arm  
-  but can easily be edited to work easily with any robot arm with minor changes.  
+Project uses tinkerkit Braccio robot arm, Arduino UNO, and DFRobot TCS3200 Sensor
+
    
 See: https://youtube.com/playlist?list=PL2OzCG0kBm4KajWgjVS2AvYy4a0MuiQ_C  
   
